@@ -42,13 +42,13 @@ const Home = () => {
           building responsive web applications.
         </p>
         <div>
-          <button className=' rounded-md text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#dedede] hover:border-white hover:text-black'>
+{/*           <button className=' rounded-md text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#dedede] hover:border-white hover:text-black'>
             View Work
             <span className='group-hover:rotate-90 duration-300'>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
 
-          </button>
+          </button> */}
         </div>
       </div>
       {/* <div className='max-w-1/4 hidden lg:block mt-28 mr-2'>
